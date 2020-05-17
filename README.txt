@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 TITLE: 
 Education - 100% Fully Responsive Free HTML5 Bootstrap Template
@@ -60,3 +61,6 @@ http://dimsemenov.com/plugins/magnific-popup/
 Demo Images:
 http://unsplash.com
 
+=======
+ECUK DEMO REPO
+>>>>>>> 9b51105ff2a2c78ef5ec9f0b4f1436f402335a67
