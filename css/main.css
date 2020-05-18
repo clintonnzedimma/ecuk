@@ -1,0 +1,35 @@
+/* 
+*
+* App: Edwin Clark University website
+* This css file is for the above application
+*
+*/
+
+.fh5co-nav .top {
+    background: #3882be;
+}
+
+.fh5co-nav .top p.num {
+    color: rgba(255, 255, 255, 0.8);
+    border-color: rgba(255, 255, 255, 0.8);
+}
+
+.fh5co-nav .top .fh5co-social {
+    border-color: rgba(255, 255, 255, 0.8);
+}
+
+.fh5co-nav .top .fh5co-social li a {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.fh5co-nav #fh5co-logo a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 110px;
+    padding: 0;
+}
+
+.fh5co-nav #fh5co-logo a span{
+    color: #2d6bde;
+}
