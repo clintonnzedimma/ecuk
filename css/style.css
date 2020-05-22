@@ -102,6 +102,9 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 5px 12px;
 }
+
+
+
 @media screen and (max-width: 768px) {
   .fh5co-nav .top .num, .fh5co-nav .top .fh5co-social, .fh5co-nav .top .site {
     padding: 5px 10px;

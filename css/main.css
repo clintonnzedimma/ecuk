@@ -33,3 +33,22 @@
 .fh5co-nav #fh5co-logo a span{
     color: #2d6bde;
 }
+
+aside#fh5co-heading {
+    background: #6e8de7;
+    min-height: 200px;
+    height: auto;
+    position: relative;
+}
+
+#fh5co-heading .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#fh5co-heading .heading-section {
+    color: #e5e9fa;
+}
